@@ -6,7 +6,7 @@ export const datas = [
         originalPrice:40,
         salePrice:null,
         rating:5,
-        // src:"/images/naruto.jpg"
+        
         src:"/imgcloth/BlackHoodie.webp"
 
 },
@@ -17,7 +17,7 @@ export const datas = [
     originalPrice:30,
     salePrice:null,
     rating:5,
-    // src:"/images/onepiece.jpg"
+   
     src:"/imgcloth/cottonTee.jpeg"
 
 },
@@ -28,7 +28,7 @@ export const datas = [
     originalPrice:40,
     salePrice:20,
     rating:5,
-    // src:"/images/bleach.jpg"
+    
     src:"/imgcloth/GreyHoodie.png"
 
 },
@@ -39,7 +39,7 @@ export const datas = [
     originalPrice:70,
     salePrice:15,
     rating:3,
-    // src:"/images/sao.jpg"
+    
     src:"/imgcloth/jeans.jpeg"
 
 },
@@ -51,7 +51,7 @@ export const datas = [
     originalPrice:50,
     salePrice:null,
     rating:4.5,
-    // src:"/images/erased.jpg"
+   
     src:"/imgcloth/UpperGirl.jpeg"
 
 },
@@ -62,7 +62,7 @@ export const datas = [
     originalPrice:40,
     salePrice:null,
     rating:3.5,
-    // src:"/images/boruto.jpg"
+    
     src:"/imgcloth/sweatGirl.jpeg"
 
 },
@@ -73,7 +73,7 @@ export const datas = [
     originalPrice:40,
     salePrice:35,
     rating:4.5,
-    // src:"/images/parasyte.jpg"
+    e.jpg"
     src:"/imgcloth/formalpant.jpeg"
 
 },
@@ -83,7 +83,7 @@ export const datas = [
     originalPrice:400,
     salePrice:200,
     rating:5,
-    // src:"/images/deathNote.jpg"
+    
     src:"/imgcloth/GirlCargoPant.jpeg"
 
 },

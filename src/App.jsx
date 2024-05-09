@@ -56,6 +56,8 @@ function App() {
           <Route exact path="/products" element={<Products />} />
           <Route exact path="/cart" element={<Cart cart={cart} changeQuantity={changeQuantity} removeItem={removeItem} />} />
           <Route exact path="/productsInfo/:id" element={<ProductsInfo datas={datas} addToCart={addToCart} cart = {cart} />} />
+
+          
         </Routes>
         <Footer/>
       </Router>
